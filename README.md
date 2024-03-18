@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Syed issam Bukhari</h1>
-<h3 align="center">A passionate real-life problem solver</h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Syed+issam+Bukhari;A+passionate+real-life+old+problem+solver;Be+Welcome!+:%29)](https://git.io/typing-svg)
