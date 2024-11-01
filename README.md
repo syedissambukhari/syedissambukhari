@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJs, AI/ML, IoT,Cloud computing, DBMS ,Android native, Flutter, Matlab , Proteus and much more**
 
-- 📫 How to reach me **syedzararbukhari@gmail.com**
+- 📫 How to reach me **syedissam33444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
